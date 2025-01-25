@@ -29,6 +29,7 @@ Once the correct number is guessed, the game shows the number of attempts made.
 # 📫 Connect Us:
 For questions, suggestions, or just to say hi, feel free to reach out:
 
-GitHub: Zainab007
+GitHub: @Zainab007
+
 Email: haseb3883838@gmail.com
 
